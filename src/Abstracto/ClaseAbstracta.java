@@ -1,4 +1,4 @@
-package Abstrato;
+package Abstracto;
 
 public abstract class ClaseAbstracta {
 	
