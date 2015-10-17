@@ -1,6 +1,7 @@
 package Abstracto;
 
 //-> Una clase hereda de una clase abstracta
+//   e implementa sus métodos.
 public class ClaseHija1 extends ClaseAbstracta {
 
 	@Override
